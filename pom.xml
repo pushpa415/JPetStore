@@ -76,12 +76,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.16.3:8081/repository/child/</url>
+	      <url>http://13.233.91.31:8082/repository/nani/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.16.3:8081/repository/child/</url>
+	      <url>http://13.233.91.31:8082/repository/nani/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
